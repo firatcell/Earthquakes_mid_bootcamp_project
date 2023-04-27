@@ -2,6 +2,7 @@
 
 The aim of this project is to explore and analyze data related to earthquakes given the time frame from 1901 to 2024, including their magnitudes, destructiveness, reported deaths, geographical distribution, likelihood of occurrence, and trends over time. This is achieved using Python and EDA techniques to conduct the analysis and draw insights from the data.<br>
 Data source:https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?maxYear=2023&minYear=1901
+Tableau: https://public.tableau.com/app/profile/firat6571/viz/Mid_bootcamp_project_16825912498090/Dashboard1?publish=yes
 ## Objectives
 Basic findings<br>
 -Earthquake with the highest magnitude?<br>
