@@ -42,4 +42,4 @@ The trend of Magnitude to Focal Depth is a weak positive trend, pointing at a po
 
 The trend for magnitude and Total Damage ($Mil) shows no correlation therefore pointing at a non-linear relationship.<br>
 
-There are 3 time slots with the most deaths, from lowest to highest: 2-4am, 5-7 am and 18-20pm.<br>
+There are 3 time slots with the most deaths, from lowest to highest: 1-7am, 11-13 am and 18-20pm.<br>
