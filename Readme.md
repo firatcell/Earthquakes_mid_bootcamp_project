@@ -1,20 +1,35 @@
 # Earthquakes
 
-The aim of this project is to explore and analyze data related to earthquakes given the time frame from 1901 to 2024, including their magnitudes, destructiveness, reported deaths, geographical distribution, likelihood of occurrence, and trends over time. This is achieved using Python and EDA techniques to conduct the analysis and draw insights from the data.
+The aim of this project is to explore and analyze data related to earthquakes given the time frame from 1901 to 2024, including their magnitudes, destructiveness, reported deaths, geographical distribution, likelihood of occurrence, and trends over time. This is achieved using Python and EDA techniques to conduct the analysis and draw insights from the data.<br>
+Data source:https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?maxYear=2023&minYear=1901
+## Objectives
+Basic findings<br>
+-Earthquake with the highest magnitude?<br>
+-Earthquakes with the highest number of deaths<br>
+-Total number of reported deaths<br>
+-Country with the most Earthquakes?<br>
 
-## Questions
+Distribution of Earthquakes<br>
+
 Visualize the geographical distribution of earthquakes<br>
-What is the distribution of Earthquakes?<br>
-What earthquake had the highest magnitude?<br>
-Whats the total amount of reported deaths?<br>
-What earthquake had the highest deaths?<br>
-How likely for an earthquake in a region according to data timeframe?<br>
-What is the average earthquake magnitude by country?<br>
-What is the trend of Earthquakes over time in the country of choice?<br>
-What is the trend of Earthquakes over time?<br>
-What is the relationship between magnitude and depth?<br>
-What is the relationship between magnitude and Total Damage ($Mil)?<br>
-At what time during the 24 hour cycle was the most deaths?<br>
+
+The affect of Natural disasters on earthquakes<br>
+
+Relationship between Deaths and Damage ($Mil)<br>
+
+Relationship between Magnitude by Damage and Deaths.<br>
+
+Relationship between Intensity by Damage and Deaths.<br>
+
+Relationship between Magnitude and Intensity<br>
+
+Deaths by Time of Day<br>
+
+Other possible factors effecting destructiveness can explore.<br>
+
+Conclusion<br>
+
+
 
 What makes an Earthquake destructive?<br>
 
@@ -37,9 +52,10 @@ Magnitude: 7.0<br>
 The country with the most earthquakes 'China' makes up of about 10% of all Earthquakes.
 China has had a positive increase in the average of magnitude of eearthquakes over the time frame of the data.<br>
 
-The trend of magnitude overtime for all earthquakes in data set is also a positive increase of magnitude.
-The trend of Magnitude to Focal Depth is a weak positive trend, pointing at a posible non-linear relationship.<br>
+Positive but Weak correlation of Magnitude by Damage and Deaths.
+Positive but slightly stronger than Magnitude, is Intensity by Damage and Deaths.
+Time of day -at certain times of day people are more likely to die.
+Almost Weak and No correlation between Magnitude and Intensity.
+Volcanoes and Tsunamis and Time of day increases death rates and damage.
 
-The trend for magnitude and Total Damage ($Mil) shows no correlation therefore pointing at a non-linear relationship.<br>
-
-There are 3 time slots with the most deaths, from lowest to highest: 1-7am, 11-13 am and 18-20pm.<br>
+There are other factors affecting the destructiveness of earthquakes and therefore a non-linear relationship.
