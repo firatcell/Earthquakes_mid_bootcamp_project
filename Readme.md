@@ -3,8 +3,8 @@
 The aim of this project is to explore and analyze data related to earthquakes given the time frame from 1901 to 2024, including their magnitudes, destructiveness, reported deaths, geographical distribution, likelihood of occurrence, and trends over time. This is achieved using Python and EDA techniques to conduct the analysis and draw insights from the data.
 
 ## Questions
-Visualize the geographical distribution of earthquakes
-What is the distribution of Earthquakes?
+#Visualize the geographical distribution of earthquakes
+#What is the distribution of Earthquakes?
 What earthquake had the highest magnitude?
 Whats the total amount of reported deaths?
 What earthquake had the highest deaths?
